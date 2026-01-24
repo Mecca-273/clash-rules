@@ -1,5 +1,4 @@
- 
-payload:
+ payload:
  - DOMAIN,ai.cn
  - DOMAIN-SUFFIX,ai.com
  - DOMAIN-SUFFIX,auth0.com
