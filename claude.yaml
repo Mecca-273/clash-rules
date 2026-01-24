@@ -1,9 +1,12 @@
 payload:
  - DOMAIN-SUFFIX,claude.ai
  - DOMAIN-SUFFIX,claude.com
+ - DOMAIN-SUFFIX,statsig.anthropic.com
  - DOMAIN-SUFFIX,anthropic.com
  - DOMAIN-SUFFIX,intercom.io
  - DOMAIN-SUFFIX,intercomcdn.com
  - DOMAIN-SUFFIX,honeycomb.io
+ - DOMAIN-SUFFIX,ingest.us.sentry.io
+ - DOMAIN-SUFFIX,sentry.io
  - DOMAIN-KEYWORD,anthropic
  - DOMAIN-KEYWORD,claude
